@@ -1,0 +1,12 @@
+En este proyecto se logró automatizar el proceso de compra como invitado usando Serenity BDD con Screenplay, 
+lo que facilitó la creación de pruebas más claras y mantenibles. Durante el desarrollo, se enfrentaron y 
+resolvieron problemas reales como tiempos de espera y configuraciones de WebDriver, lo que ayudó a entender 
+mejor cómo funcionan las herramientas en la práctica.
+
+Pese a que el orden ideal para utilizar los selectores es:
+ -ID
+ -Name 
+ -Class
+ -Css Selectors 
+ -XPath
+Para este proyecto se utilizo más lo que es XPath para poder hacer las elecciones de producto. 
