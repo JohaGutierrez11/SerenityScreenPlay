@@ -16,6 +16,6 @@ Este proyecto automatiza un flujo completo de compra en [OpenCart](http://openca
 - Selenium WebDriver
 - JUnit 4
 - Chrome Driver 136.0.7103.114
-## ▶️ Cómo ejecutar
+## Cómo ejecutar
 ```bash
 mvn clean verify
